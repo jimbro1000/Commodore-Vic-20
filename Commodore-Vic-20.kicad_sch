@@ -19955,7 +19955,7 @@
     (property "Value" "1m5" (at 269.24 308.61 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Diode_THT:Diode_Bridge_15.1x15.1x6.3mm_P10.9mm" (at 269.24 306.07 0)
+    (property "Footprint" "Diode_THT:Diode_Bridge_15.2x15.2x6.3mm_P10.9mm" (at 269.24 306.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 269.24 306.07 0)
