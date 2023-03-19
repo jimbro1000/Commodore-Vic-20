@@ -22,6 +22,8 @@ the positioning of the different ports are approximations based on the rather
 distorted board scans in the technical manual.
 
 ## KiCad thumbnail of schematic and pcb
+![](images/Commodore-Vic-20.png)
+
 ![](images/commodore-vic20-thumb.png)
 
 ![](images/vc20-wip.png)
