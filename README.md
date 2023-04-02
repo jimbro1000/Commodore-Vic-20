@@ -1,12 +1,23 @@
 # Commodore VIC-20 Schematic and PCB for assembly 250403
 
-Hard forked from https://github.com/StormTrooper/Commodore-Vic-20
+This repository contains KiCad schematics and "rough" PCB layout for the
+cost reduced VIC-20, assembly #250403.
+
+Originally hard forked from https://github.com/StormTrooper/Commodore-Vic-20
+(this does not appear to be maintained).
 
 The schematic for the Commodore VIC-20 (251027-01 Rev D) was taken from the 
 schematics on zimmers.net with extra detail from the "Vic-20 friendly computer 
 technical manual" and converted into KiCad (Version 7).
 
 Additionally includes some KiCad footprints and symbols for the custom components.
+
+## State
+
+The schematics are complete and 95% of the PCB layout is done but it is not
+complete. The power supply section of the board is mostly unfinished, and
+accurate footprints for the large inductor, power switch and bridge rectifier are
+needed.
 
 ## Notes
 
