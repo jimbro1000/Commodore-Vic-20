@@ -3,12 +3,12 @@
 This repository contains KiCad schematics and "rough" PCB layout for the
 cost reduced VIC-20, assembly #250403.
 
-Originally hard forked from https://github.com/StormTrooper/Commodore-Vic-20
+Originally hard forked from <https://github.com/StormTrooper/Commodore-Vic-20>
 (this does not appear to be maintained).
 
-The schematic for the Commodore VIC-20 (251027-01 Rev D) was taken from the 
-schematics on zimmers.net with extra detail from the "Vic-20 friendly computer 
-technical manual" and converted into KiCad (Version 7).
+The schematic for the Commodore VIC-20 (251027-01 Rev D) was taken from the
+schematics on zimmers.net with extra detail from the "Vic-20 friendly computer
+technical manual" and converted into KiCad (Version 8).
 
 Additionally includes some KiCad footprints and symbols for the custom components.
 
@@ -33,8 +33,9 @@ the positioning of the different ports are approximations based on the rather
 distorted board scans in the technical manual.
 
 ## KiCad thumbnail of schematic and pcb
-![](images/Commodore-Vic-20.png)
 
-![](images/commodore-vic20-thumb.png)
+![render of PCB](images/Commodore-Vic-20.png)
 
-![](images/vc20-wip.png)
+![cad view of schematics](images/commodore-vic20-thumb.png)
+
+![cad view of pcb](images/vc20-wip.png)
